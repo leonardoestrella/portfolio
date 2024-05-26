@@ -1,2 +1,7 @@
-# portfolio
-Some personal projects on data science, modeling, and coding. 
+# Data Scientist
+
+### Education
+Computational and Natural Sciences, B. Sc.
+
+### Work Experience
+Something here
