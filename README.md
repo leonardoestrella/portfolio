@@ -2,7 +2,7 @@
 
 ### Education
 
-BSc. Computational and Natural Sciences - Minerva University, May 2026
+BSc Computational and Natural Sciences - Minerva University, May 2026
 
 ### Work Experience
 
